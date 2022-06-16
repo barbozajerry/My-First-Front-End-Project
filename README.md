@@ -1,1 +1,1 @@
-![alt text](images/WebProgrammingHW1.png)
+![alt text](Images/WebProgrammingHW1.png)
